@@ -1,0 +1,53 @@
+﻿@model ANW.ComposerApp.Models.Composer
+
+@{
+    ViewBag.Title = "Details Page";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Audionetwork - Composer Details</title>
+</head>
+<body>
+    <div class="jumbotron">
+        <h1>Audionetwork</h1>
+        <span id="tag-line" class="lead"></span>
+    </div>
+    <div>
+        <h4>Composer</h4>
+        <hr/>
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Title)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Title)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.FullName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.FullName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Awards)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Awards)
+            </dd>
+        </dl>
+    </div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new {id = Model.Id}) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+</body>
+</html>
