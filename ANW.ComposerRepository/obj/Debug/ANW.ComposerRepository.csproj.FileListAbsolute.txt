@@ -1,0 +1,8 @@
+C:\Work\AudioNetwork\audionetwork-anw.recruitingtest-23bf40eb79ec\ANW.ComposerRepository\bin\Debug\ANW.ComposerRepository.dll
+C:\Work\AudioNetwork\audionetwork-anw.recruitingtest-23bf40eb79ec\ANW.ComposerRepository\bin\Debug\ANW.ComposerRepository.pdb
+C:\Work\AudioNetwork\audionetwork-anw.recruitingtest-23bf40eb79ec\ANW.ComposerRepository\bin\Debug\ANW.ComposerModels.dll
+C:\Work\AudioNetwork\audionetwork-anw.recruitingtest-23bf40eb79ec\ANW.ComposerRepository\bin\Debug\ANW.ComposerModels.pdb
+C:\Work\AudioNetwork\audionetwork-anw.recruitingtest-23bf40eb79ec\ANW.ComposerRepository\obj\Debug\ANW.ComposerRepository.csprojResolveAssemblyReference.cache
+C:\Work\AudioNetwork\audionetwork-anw.recruitingtest-23bf40eb79ec\ANW.ComposerRepository\obj\Debug\ANW.ComposerRepository.csproj.CoreCompileInputs.cache
+C:\Work\AudioNetwork\audionetwork-anw.recruitingtest-23bf40eb79ec\ANW.ComposerRepository\obj\Debug\ANW.ComposerRepository.dll
+C:\Work\AudioNetwork\audionetwork-anw.recruitingtest-23bf40eb79ec\ANW.ComposerRepository\obj\Debug\ANW.ComposerRepository.pdb
